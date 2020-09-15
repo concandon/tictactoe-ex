@@ -1,2 +1,2 @@
 # tictactoe-ex
-A tic-tac-toe game in c++ presented on command line.
+An example of a tic-tac-toe game in c++ presented on command line.
